@@ -1,2 +1,2 @@
-# AndroidAppFramework
-Android App Framework
+# AndroidAppBase
+Android App Base
